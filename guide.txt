@@ -319,8 +319,7 @@ keúselé - to speak
 toké - to talk
 babilé - to chat
 ajdé - to help
-krokodilé - to crocodile
-(not speaking Nua’bashu in a Nua’bashu environment)
+krokodilé - to crocodile (not speaking Nua’bashu in a Nua’bashu environment)
 geru - word
 frazu - sentence
 frazeru - phrase
@@ -368,7 +367,7 @@ vangfrapé - to slap
 avié - to fly
 aviadilu - plane
 kará - dear
-matematiku/matu -maths
+matematiku/matu - maths
 scienzu - science
 kitabu - book
 studé - study
