@@ -187,7 +187,7 @@ poro - for
 anuo - or 
 neko - neither 
 keo - that
-qazaúo - as if 
+qazo - as if 
 kamajé - to get
 ungliju - finger
 sedo - but 
@@ -213,7 +213,7 @@ listopadu - November
 prosinecu - December
 janu - person
 idu - child
-ankoraúó - yet
+ankoró - yet
 tenminstó - at least
 ekde - since
 antaúe - before
@@ -342,7 +342,7 @@ televidazhu - TV show
 reteju - website
 jasimá - opposite
 jasimazhu - mirror
-glajxá/glajxo’ - same
+glajxá/glajxó - same
 rajté - to be allowed
 versuxé - to try
 cerbu - brain
@@ -733,3 +733,5 @@ chaju - tea
 kafu - coffee
 akelá - alone
 jojanu - plan
+jaru - root
+butu - ghost
