@@ -15,7 +15,7 @@ Pronouns:
 mú - I
 nú - we
 enú – exclusive “we”
-tú – singular “you”
+sinú – singular “you”
 vú – plural “you”
 onú – “one”
 igú - it
@@ -721,7 +721,7 @@ populaciu - population
 populacié - to populate
 populaciitá - populated
 cintidá - anxious
-sinu - self
+memu - self
 ketu - field
 kaju - platform
 keksu - cookie
