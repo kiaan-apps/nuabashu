@@ -735,3 +735,133 @@ akelá - alone
 jojanu - plan
 jaru - root
 butu - ghost
+baloá - nice
+pilku - ball
+tarafu - side
+intencié - to mean
+signifé - to signify
+madu - honey
+ritmu - rhythm, beat
+foralasé - to leave
+lasé - to let (someone do something)
+plasénu - disc, disk
+medau - memory
+medailu USBá - USB stick
+metru - metre
+gramu - gram
+chulau - hair
+shirishu - glue
+dakau - post
+retdakau - e-mail
+ajanau - panel
+ciklu - bicycle
+karu - motor
+karciklu - motorcycle
+argantiju - bank
+argantijilu - ATM
+katinplasénu - hard drive
+grafikilu - GPU
+grajnu - grain
+kafgrajnu - coffee bean
+grajnegu - bean
+labormemoru - RAM (random access memory)
+jahajau - ship
+ulu - guy
+natiju - file
+natijuju - folder
+arúilasé - to scan
+arúilasilu - scanner
+pardu - screen
+isu - corn
+pufisu - popcorn
+teúlelé - to project
+teúlelilu - projector
+ajkataulu - calendar
+ganigu - notification
+krajonu - pencil
+chefprocesoru - CPU
+chapaé - to print
+chapailu - printer
+gesoriu - shoe
+ghamu - shirt
+lavreku - trousers
+shinku - ham
+bamghé - to fry
+bamghshinku - bacon
+upatau - data/datum
+shrajbilu - pen
+amkaé - to draw
+ajempijá - previous, prior
+seuravá - next
+nukué - to nap
+sahkoá - electrical
+kortiju - card
+vuodeu - bed
+gejuhlau - celebration
+jurkitabu - diary
+vé - alas
+jodinu - wire
+matkajlu - travel
+hipelé - to hop
+kuvausu - description
+kantaé - to translate
+pajvau - date
+usejnó - often
+pirakau - pie
+lausuaé - to recite
+monijaó - many
+sekao - as well as
+ajkaó - not a lot
+kucuaé - to invite
+eké - to start
+hanké - to plan a project, to design
+hanku - project
+litaita - related
+litaé - to be related with
+luodaé - to create
+heraichu - mr.
+herainu - ms.
+herau - mx.
+ichu - guy (male)
+inu - guy (female)
+ideigé - to inspire
+juhlau - party
+jakaé - to share
+opituntiju - tutorial
+opiaé - to learn
+kelazhu - game
+kerataé - to gather
+ajnesu - ingredient
+kuirilu - utensil
+laulu - song
+simboliju - symbol
+huomatu - note
+huomaté - to note
+edotaé - to recommend, to suggest
+edotaazhu - suggestion
+ateljeu - studio
+tojstuvá - frequent
+pejtau - coat, jacket
+tahmeá - sticky
+kavau - equation
+kavaé - to equate to
+suhdeu - ratio
+ajná - any
+cirkselou - circumference
+pitusu - length, diameter
+duonpitusu - radius
+decimalu - decimal
+muotu - shape, form, layout
+lomakeu - form (letter)
+arvu - value, amount
+vakiju - constant (maths)
+palkaté - to give someone work
+palkatantu - employer
+palkatatu - employee
+texnologiju - technology
+tajdu - art
+sotké - to involve
+kilpajlé - to compete
+kilpajlazhu - competition
+cekaté - to check out
+vierajlé - to visit
