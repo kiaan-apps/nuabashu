@@ -2,8 +2,8 @@ To see more details, see nuabashu.neocities.org
 Alphabet:
 a (“a” in father)\ á (“a” in ash) \ b \
 c (“ts” in bits) \ ch (“ch” in check) \
-d \ dzh (“j” in jar)\ e (“e” in end)\ é
-(“e” in hey)\ f \ g \ h \ i (“ee” in
+d \ e (“e” in end)\ é (“e” in hey)\ f \ g 
+\ gh (“j” in jar)\ h \ i (“ee” in
 three)\ j (“y” in year) \ k \ l \ m \ n \
 o (“o” in on) \ ó (“a” in fall) \ p \ q
 (qu) \ r \ s \ sh (“sh” in shoot)\ t \ u
@@ -80,7 +80,7 @@ quality
 animal
 -ebl- (suffix)
 ability
--fyl- (suffix)
+-em- (suffix)
 inclination
 -ind- (suffix)
 worthy
@@ -103,7 +103,7 @@ continuous
 -um- (suffix)
 other uses
 -nj- (suffix)
-nickname
+female nickname
 ge-
 general
 ksaiti-
@@ -112,6 +112,16 @@ sid-
 vertical
 tiráks-
 diagonal
+balo-
+good
+-ip- (suffix)
+gender neutral
+-chj- (suffix)
+nickname
+(male)
+-pj- (suffix)
+nickname
+(gender neutral)
 
 Words and phrases:
 alun - hello 
